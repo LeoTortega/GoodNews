@@ -1,8 +1,8 @@
-//
-//  WeatherCell.swift
-//  GoodWeather
-//
-//  Created by Leonardo Torres Ortega on 06/10/22.
-//
+import UIKit
 
-import Foundation
+class WeatherCell: UITableViewCell {
+    
+    @IBOutlet weak var cityNameLabel: UILabel!
+    @IBOutlet weak var temperatureLabel: UILabel!
+
+}

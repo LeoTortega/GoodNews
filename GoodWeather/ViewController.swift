@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  GoodWeather
-//
-//  Created by Leonardo Torres Ortega on 05/10/22.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
